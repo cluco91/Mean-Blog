@@ -1,4 +1,4 @@
-![Image of Yaktocat](https://github.com/cluco91/JAVA_ModuloEmpleados/blob/master/Empleados.png)
+![Image of Yaktocat](https://github.com/cluco91/Mean-Blog/blob/master/Blog.png)
 
 # Mean-Blog
 
