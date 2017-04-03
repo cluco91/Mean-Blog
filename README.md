@@ -2,4 +2,4 @@
 
 # Mean-Blog
 
-Blog Sencillo desarrollado con MeanJS
+- Blog Sencillo desarrollado con MeanJS
